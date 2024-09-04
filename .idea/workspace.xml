@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ceddb5c-b3d7-4336-85f3-4ff9e2ef65f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/chatroomproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/backend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/templates/account/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatroomproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatroomproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatroomproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatroomproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatroomproject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/core/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_cdn/demopic/demoi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/snippets/base_css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/snippets/base_js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/snippets/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/snippets/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +118,7 @@
       <workItem from="1725217211064" duration="550000" />
       <workItem from="1725270534409" duration="9217000" />
       <workItem from="1725312027906" duration="521000" />
-      <workItem from="1725420937388" duration="5006000" />
+      <workItem from="1725420937388" duration="5346000" />
     </task>
     <servers />
   </component>
